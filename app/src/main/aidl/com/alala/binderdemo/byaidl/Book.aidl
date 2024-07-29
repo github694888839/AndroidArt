@@ -1,2 +1,2 @@
-package com.alala.binderdemo;
+package com.alala.binderdemo.byaidl;
 parcelable Book;
