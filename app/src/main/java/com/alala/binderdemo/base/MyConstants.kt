@@ -1,5 +1,7 @@
 package com.alala.binderdemo.base
 
+import com.alala.binderdemo.binderpool.BinderPoolImpl
+
 class MyConstants {
     companion object {
         const val MSG_FROM_CLIENT: Int = 0
